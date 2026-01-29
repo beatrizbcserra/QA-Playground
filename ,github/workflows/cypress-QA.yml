@@ -1,33 +1,19 @@
-name: Cypress QA Playground
+name: Cypress Tests
 
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  workflow_dispatch:
+on: push
 
 jobs:
   cypress-run:
-    runs-on: ubuntu-latest
-    
+    runs-on: ubuntu-24.04
     steps:
-      - name: Checkout código
+      - name: Checkout
         uses: actions/checkout@v4
-      
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-      
-      - name: Instalar dependências
-        run: npm install --legacy-peer-deps
-      
+      # Install npm dependencies, cache them correctly
+      # and run all Cypress tests
       - name: Cypress.io
         uses: cypress-io/github-action@v7.1.1
         with:
-          browser: chrome
-          headed: false
-          install: false
+          build: npm run build
+          start: npm start
         env:
           CYPRESS_BASE_URL: https://carlosfelixpenha-create.github.io/QAPlayground/
