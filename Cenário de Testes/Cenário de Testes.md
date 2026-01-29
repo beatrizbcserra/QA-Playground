@@ -1,6 +1,6 @@
 ## Cenário de Testes ##
 
-#CT-001: Cadastro realizado com sucesso.
+#CT-001: Cadastro realizado com sucesso.#
 
 Pré-condição: Usuário não deve estar logado
 
