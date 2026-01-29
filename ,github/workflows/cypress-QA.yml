@@ -23,8 +23,8 @@ jobs:
       - name: Instalar dependências
         run: npm install --legacy-peer-deps
       
-      - name: Executar testes Cypress
-        uses: cypress-io/github-action@v6
+      - name: Cypress.io
+        uses: cypress-io/github-action@v7.1.1
         with:
           browser: chrome
           headed: false
