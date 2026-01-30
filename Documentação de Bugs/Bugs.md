@@ -21,3 +21,4 @@
 **Resultado Atual:** Usúario consegue realizar o cadastro utilizando um e-mail já cadastrado.
 
 **Evidência:** https://drive.google.com/file/d/1KMrqODxwv2SX7DGjzpRMVjaUSrYrHBh6/view?usp=sharing
+---
