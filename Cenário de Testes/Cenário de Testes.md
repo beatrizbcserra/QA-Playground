@@ -28,7 +28,7 @@ Resultado esperado: Usuário realizou o login com sucesso
 
 ---
 
-# 🛠️ CT-003: Em formulário 1 o cadastro de endereço do usuário realizado com sucesso
+# 🛠️ CT-003: Em formulário 1 o cadastro de endereço do usuário é realizado com sucesso
 
 Pré-condição: Endereço do usuário não cadastrado
 
@@ -56,7 +56,7 @@ Resultado esperado: Campo Diversos do usuário cadastrado com sucesso.
 
 ---
 
-# 🛠️ CT-005: Novos Campos cadastrado com sucesso.
+# 🛠️ CT-005: Em fomulário 3 o cadastro de novos campos é realizado com sucesso sucesso.
 
 Pré-condição: Novos Campos do usuário não cadastrado
 
