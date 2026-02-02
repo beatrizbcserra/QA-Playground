@@ -28,7 +28,7 @@ Resultado esperado: Usuário realizou o login com sucesso
 
 ---
 
-# 🛠️ CT-003: Cadastro de endereço do usuário realizado com sucesso
+# 🛠️ CT-003: Em formulário 1 o cadastro de endereço do usuário realizado com sucesso
 
 Pré-condição: Endereço do usuário não cadastrado
 
