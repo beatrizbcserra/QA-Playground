@@ -42,7 +42,7 @@ Resultado esperado: Endereço do usuário cadastrado com sucesso.
 
 ---
 
-# 🛠️ CT-004: Campo Diversos cadastrado com sucesso.
+# 🛠️ CT-004: Em formulário 2 o cadastrado de campos diversos do usuário é realizado com sucesso.
 
 Pré-condição: Campo Diversos do usuário não cadastrado.
 
