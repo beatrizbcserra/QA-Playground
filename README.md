@@ -1,2 +1,2 @@
 # QA-Playground
-Suíte de testes automatizados utilizando o Cypress
+Suíte de testes manuais e automatizados utilizando o Cypress
