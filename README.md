@@ -8,7 +8,7 @@
 
 ## 📄 Descrição
 
-Projeto de automação E2E utilizando Cypress, simulando o fluxo de cadastro de usuários e login em uma aplicação web utilizando IA Generativa (Chat GPT) para produzir arquivo de dados cadastrados positivos e negativos no formato JSON.
+Projeto de testes manuais e automação E2E utilizando Cypress, simulando o fluxo de cadastro de usuários e login em uma aplicação web utilizando IA Generativa (Chat GPT) para produzir arquivo de dados cadastrados positivos e negativos no formato JSON.
 
 ## 🎯 Objetivo 
 
