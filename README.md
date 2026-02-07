@@ -1,4 +1,4 @@
-# QA-Playground 
+# 🧪 **QA Automation Project — Cadastro de Usuário**
 
 ![Cypress Tests](https://github.com/beatrizbcserra/QA-Playground/actions/workflows/cypress.yml/badge.svg)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
@@ -6,7 +6,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/beatrizbcserra/QA-Playground)
 ![Repo Size](https://img.shields.io/github/repo-size/beatrizbcserra/QA-Playground)
 
-🧪 **QA Automation Project — Cadastro de Usuário**
+## 📄 Descrição
 
 Projeto de automação E2E utilizando Cypress, simulando o fluxo de cadastro de usuários e login em uma aplicação web utilizando IA Generativa (Chat GPT) para produzir arquivo de dados cadastrados positivos e negativos no formato JSON.
 
