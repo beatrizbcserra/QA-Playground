@@ -8,7 +8,7 @@
 
 🧪 **QA Automation Project — Cadastro de Usuário**
 
-Projeto de automação E2E utilizando Cypress, simulando o fluxo de cadastro de usuários e login em uma aplicação web.
+Projeto de automação E2E utilizando Cypress, simulando o fluxo de cadastro de usuários e login em uma aplicação web utilizando IA Generativa (Chat GPT) para produzir arquivo de dados cadastrados positivos e negativos no formato JSON.
 
 ## 🎯 Objetivo 
 
@@ -33,5 +33,9 @@ Foram automatizados cenários baseados em:
 - **Page Object Pattern** - Padrão de organização de código
 - **Fixtures** - Gerenciamento de dados de teste
 - **GitHub Actions** - CI/CD para automação dos testes
+
+🔄 Integração Contínua
+
+Os testes são executados automaticamente via GitHub Actions a cada push, simulando um ambiente real de integração contínua.
 
 ![Logo QA Playground](https://carlosfelixpenha-create.github.io/QAPlayground/frontend/img/logos/logo_home.png)
