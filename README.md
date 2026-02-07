@@ -66,17 +66,28 @@ npx cypress run
 ## 📁 Estrutura do Projeto
 
 cypress/
+
  ├── e2e/
+ 
  │    ├── cadastroPositivo.cy.js
+ 
  │    └── cadastroNegativo.cy.js
+ 
  │
+ 
  ├── fixtures/
+ 
  │    └── usuarios_teste.json
+ 
  │
+ 
  ├── support/
+ 
  │    ├── commands.js
+ 
  │    └── pages/
- │         └── cadastro.page.js 
+ 
+ │         └── cadastro.page.js
 
 ## ⭐ Destaques do Projeto
 
@@ -86,7 +97,8 @@ cypress/
 - Integração com **GitHub Actions** para execução automática
 - Estrutura voltada para escalabilidade de testes
 
-## Duvidas ou sugestões? [E-mail](mailto:beatrizbcserra@gmail.com)
+## 📨 Duvidas ou sugestões? 
+[E-mail](mailto:beatrizbcserra@gmail.com)
 
 ### Produzido por [Beatriz Serra](https://github.com/beatrizbcserra)
 
