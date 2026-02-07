@@ -1,0 +1,92 @@
+[
+    {
+        "nome": "Ana Banana",
+        "email": "ana.banana@email.com",
+        "senha": "Abacaxi1!",
+        "confirmar_senha": "Abacaxi1!"
+    },
+    {
+        "nome": "Carlos",
+        "email": "carlos@email.com",
+        "senha": "Senha1!",
+        "confirmar_senha": "Senha1!"
+    },
+    {
+        "nome": "Beto  Silva",
+        "email": "beto.silva@email.com",
+        "senha": "Beto123!",
+        "confirmar_senha": "Beto123!"
+    },
+    {
+        "nome": "X Æ A-12",
+        "email": "xea12@email.com",
+        "senha": "Xae12!A",
+        "confirmar_senha": "Xae12!A"
+    },
+    {
+        "nome": "Maria das Couves",
+        "email": "maria.couves@email.com",
+        "senha": "Couve1@",
+        "confirmar_senha": "Couve1@"
+    },
+    {
+        "nome": "Jo",
+        "email": "jo@email.com",
+        "senha": "Jo1@23",
+        "confirmar_senha": "Jo1@23"
+    },
+    {
+        "nome": "Roberto Espaguete",
+        "email": "roberto.espaguete@email",
+        "senha": "Macarrao1!",
+        "confirmar_senha": "Macarrao1!"
+    },
+    {
+        "nome": "Luna Lovegood",
+        "email": "luna.lovegood@email.com",
+        "senha": "LunaLove1!",
+        "confirmar_senha": "LunaLove1!"
+    },
+    {
+        "nome": "Zé do Pão",
+        "email": "ze.pao@email.com",
+        "senha": "Pao123",
+        "confirmar_senha": "Pao123"
+    },
+    {
+        "nome": "Cláudio  Trovão",
+        "email": "claudio.trovao@email.com",
+        "senha": "Trovao1!",
+        "confirmar_senha": "Trovao1!"
+    },
+    {
+        "nome": "Princesa Batata",
+        "email": "princesa.batata@email.com",
+        "senha": "BatataDoce1!",
+        "confirmar_senha": "BatataDoce1!"
+    },
+    {
+        "nome": "Seu Madruga",
+        "email": "seu.madruga@email.com",
+        "senha": "Madruga1!",
+        "confirmar_senha": "Madruga1!"
+    },
+    {
+        "nome": "Tio Churras",
+        "email": "tio.churras@email.com",
+        "senha": "Churras1!",
+        "confirmar_senha": "Churras1?"
+    },
+    {
+        "nome": "A",
+        "email": "a@email.com",
+        "senha": "Aa1!aa",
+        "confirmar_senha": "Aa1!aa"
+    },
+    {
+        "nome": "Dona Formiga Atômica",
+        "email": "formiga.atomica@email.com",
+        "senha": "Formiga1!",
+        "confirmar_senha": "Formiga1!"
+    }
+]
