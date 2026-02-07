@@ -1,4 +1,4 @@
-# QA-Playground
+# QA-Playground 
 
 ![Cypress Tests](https://github.com/beatrizbcserra/QA-Playground/actions/workflows/cypress.yml/badge.svg)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
@@ -6,16 +6,16 @@
 ![Last Commit](https://img.shields.io/github/last-commit/beatrizbcserra/QA-Playground)
 ![Repo Size](https://img.shields.io/github/repo-size/beatrizbcserra/QA-Playground)
 
-Suíte de testes manuais e automatizados utilizando o Cypress para o site QAPlayground por [Carlos Felix](https://github.com/carlosfelixpenha-create)
+Suíte de testes manuais e automatizados utilizando o Cypress para o site QAPlayground por [Carlos Felix](https://github.com/carlosfelixpenha-create).
 Tendo como objetivo documentar e reportar os principais BUGS e erros presentes no site.
 ---
-🧪 # QA Automation Project — Cadastro de Usuário
+🧪 # QA Automation Project — Cadastro de Usuário #
 Projeto de automação E2E utilizando Cypress, simulando o fluxo de cadastro de usuários e login em uma aplicação web.
 ---
-🎯 # Objetivo
+🎯 # Objetivo #
 Garantir a qualidade da funcionalidade de cadastro e login através de testes automatizados positivos e negativos, simulando cenários reais de validação de dados.
 ---
-🧠 # Estratégia de Testes
+🧠 # Estratégia de Testes #
 Foram automatizados cenários baseados em:
 
 ✔️ Testes de validação de campos obrigatórios
@@ -23,7 +23,7 @@ Foram automatizados cenários baseados em:
 ✔️ Testes de dados inválidos
 ✔️ Teste de fluxo feliz (happy path)
 --- 
-🛠️ Tecnologias utilizadas
+🛠️ # Tecnologias utilizadas #
 
 🟣 Cypress ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 🟣 JavaScript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
