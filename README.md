@@ -86,4 +86,7 @@ cypress/
 - Integração com **GitHub Actions** para execução automática
 - Estrutura voltada para escalabilidade de testes
 
+## Duvidas ou sugestões? [E-mail](mailto:beatrizbcserra@gmail.com)
+
 ### Produzido por [Beatriz Serra](https://github.com/beatrizbcserra)
+
