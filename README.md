@@ -34,7 +34,7 @@ Foram automatizados cenários baseados em:
 - **Fixtures** - Gerenciamento de dados de teste
 - **GitHub Actions** - CI/CD para automação dos testes
 
-🔄 Integração Contínua
+## 🔄 Integração Contínua
 
 Os testes são executados automaticamente via GitHub Actions a cada push, simulando um ambiente real de integração contínua.
 
