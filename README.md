@@ -18,10 +18,10 @@ Garantir a qualidade da funcionalidade de cadastro e login através de testes au
 🧠 # Estratégia de Testes #
 Foram automatizados cenários baseados em:
 
-✔️ Testes de validação de campos obrigatórios
-✔️ Testes de regras de negócio
-✔️ Testes de dados inválidos
-✔️ Teste de fluxo feliz (happy path)
+✔️ Testes de validação de campos obrigatórios;
+✔️ Testes de regras de negócio;
+✔️ Testes de dados inválidos;
+✔️ Teste de fluxo feliz (happy path).
 --- 
 🛠️ # Tecnologias utilizadas #
 
