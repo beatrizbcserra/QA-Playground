@@ -13,7 +13,7 @@ Projeto de testes manuais e automação E2E utilizando Cypress, simulando o flux
 
 ## 🎯 Objetivo 
 
-Garantir a qualidade da funcionalidade de cadastro e login através de testes automatizados positivos e negativos, simulando cenários reais de validação de dados.
+Garantir a qualidade da funcionalidade de cadastro e login através de testes automatizados positivos e negativos, simulando cenários reais de validação de dados para o site QAPlayground feito por [Carlos Felix](https://github.com/carlosfelixpenha-create).
 
 ## 🧠 Estratégia de Testes 
 
