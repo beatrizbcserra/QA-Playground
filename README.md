@@ -6,9 +6,9 @@
 ![Last Commit](https://img.shields.io/github/last-commit/beatrizbcserra/QA-Playground)
 ![Repo Size](https://img.shields.io/github/repo-size/beatrizbcserra/QA-Playground)
 
--
-🧪 ## QA Automation Project — Cadastro de Usuário 
-Projeto de automação E2E utilizando Cypress, simulando o fluxo de cadastro de usuários e login em uma aplicação web.
+
+- 🧪 ## QA Automation Project — Cadastro de Usuário 
+  - Projeto de automação E2E utilizando Cypress, simulando o fluxo de cadastro de usuários e login em uma aplicação web.
 ---
 🎯 ## Objetivo 
 Garantir a qualidade da funcionalidade de cadastro e login através de testes automatizados positivos e negativos, simulando cenários reais de validação de dados.
