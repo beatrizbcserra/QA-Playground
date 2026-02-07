@@ -19,7 +19,7 @@ Garantir a qualidade da funcionalidade de cadastro e login através de testes au
 
 Foram automatizados cenários baseados em:
 
-✔️ Testes manuais e explorátorios
+✔️ Testes manuais e exploratórios
 
 ✔️ Testes de validação de campos obrigatórios
 
