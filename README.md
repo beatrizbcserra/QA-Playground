@@ -5,18 +5,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Last Commit](https://img.shields.io/github/last-commit/beatrizbcserra/QA-Playground)
 ![Repo Size](https://img.shields.io/github/repo-size/beatrizbcserra/QA-Playground)
----
 
-Suíte de testes manuais e automatizados utilizando o Cypress para o site QAPlayground por [Carlos Felix](https://github.com/carlosfelixpenha-create).
-Tendo como objetivo documentar e reportar os principais BUGS e erros presentes no site.
+**Suíte de testes manuais e automatizados utilizando o Cypress para o site QAPlayground por [Carlos Felix](https://github.com/carlosfelixpenha-create).
+Tendo como objetivo documentar e reportar os principais BUGS e erros presentes no site.**
 ---
-🧪 # QA Automation Project — Cadastro de Usuário #
+🧪 ## QA Automation Project — Cadastro de Usuário #
 Projeto de automação E2E utilizando Cypress, simulando o fluxo de cadastro de usuários e login em uma aplicação web.
 ---
-🎯 # Objetivo #
+🎯 ## Objetivo 
 Garantir a qualidade da funcionalidade de cadastro e login através de testes automatizados positivos e negativos, simulando cenários reais de validação de dados.
 ---
-🧠 # Estratégia de Testes #
+🧠 ## Estratégia de Testes 
 Foram automatizados cenários baseados em:
 
 ✔️ Testes de validação de campos obrigatórios;
