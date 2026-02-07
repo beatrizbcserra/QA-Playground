@@ -6,31 +6,32 @@
 ![Last Commit](https://img.shields.io/github/last-commit/beatrizbcserra/QA-Playground)
 ![Repo Size](https://img.shields.io/github/repo-size/beatrizbcserra/QA-Playground)
 
+🧪 **QA Automation Project — Cadastro de Usuário**
 
-🧪 QA Automation Project — Cadastro de Usuário
 Projeto de automação E2E utilizando Cypress, simulando o fluxo de cadastro de usuários e login em uma aplicação web.
----
-🎯 ## Objetivo 
+
+## 🎯 Objetivo 
+
 Garantir a qualidade da funcionalidade de cadastro e login através de testes automatizados positivos e negativos, simulando cenários reais de validação de dados.
----
-🧠 ## Estratégia de Testes 
+
+## 🧠 Estratégia de Testes 
+
 Foram automatizados cenários baseados em:
 
-✔️ Testes de validação de campos obrigatórios;
-✔️ Testes de regras de negócio;
-✔️ Testes de dados inválidos;
-✔️ Teste de fluxo feliz (happy path).
---- 
-🛠️ # Tecnologias utilizadas #
+✔️ Testes de validação de campos obrigatórios
 
-🟣 Cypress ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-🟣 JavaScript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-🟣 Page Object Pattern
-🟣 Fixtures para dados de teste
-🟣 GitHub Actions (CI) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+✔️ Testes de regras de negócio
 
-![Alt text for the image](https://carlosfelixpenha-create.github.io/QAPlayground/frontend/img/logos/logo_home.png)
+✔️ Testes de dados inválidos
 
+✔️ Teste de fluxo feliz (happy path)
 
+## 🛠️ Tecnologias Utilizadas
 
+- **Cypress** - Framework de testes E2E
+- **JavaScript** - Linguagem de programação
+- **Page Object Pattern** - Padrão de organização de código
+- **Fixtures** - Gerenciamento de dados de teste
+- **GitHub Actions** - CI/CD para automação dos testes
 
+![Logo QA Playground](https://carlosfelixpenha-create.github.io/QAPlayground/frontend/img/logos/logo_home.png)
