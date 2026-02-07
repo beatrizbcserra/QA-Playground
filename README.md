@@ -7,3 +7,5 @@
 
 Suíte de testes manuais e automatizados utilizando o Cypress para o site QAPlayground por [Carlos Felix](https://github.com/carlosfelixpenha-create)
 
+![Alt text for the image](https://carlosfelixpenha-create.github.io/QAPlayground/frontend/img/logos/logo_home.png)
+
