@@ -9,7 +9,7 @@
 
 ## 📄 Descrição
 
-Projeto de testes manuais e automação E2E utilizando Cypress, simulando o fluxo de cadastro de usuários e login em uma aplicação web utilizando IA Generativa (Chat GPT) para produzir arquivo de dados cadastrados positivos e negativos no formato JSON.
+Projeto de testes manuais e automação E2E utilizando Cypress, simulando o fluxo de cadastro de usuários e login em uma aplicação web utilizando IA Generativa (ChatGPT) para geração de dados de teste no formato JSON.
 
 ## 🎯 Objetivo 
 
@@ -42,3 +42,48 @@ Foram automatizados cenários baseados em:
 Os testes são executados automaticamente via GitHub Actions a cada push, simulando um ambiente real de integração contínua.
 
 ![Logo QA Playground](https://carlosfelixpenha-create.github.io/QAPlayground/frontend/img/logos/logo_home.png)
+
+## ▶️ Como Executar
+
+### 1. Clonar o repositório
+```bash
+git clone https://github.com/beatrizbcserra/QA-Playground.git
+cd QA-Playground
+```
+### 2. Instalar depedências 
+```bash
+npm install
+```
+### 3. Executar Testes
+Modo iterativo:
+```bash
+npx cypress open
+```
+Modo headless:
+```bash
+npx cypress run
+```
+## 📁 Estrutura do Projeto
+
+cypress/
+ ├── e2e/
+ │    ├── cadastroPositivo.cy.js
+ │    └── cadastroNegativo.cy.js
+ │
+ ├── fixtures/
+ │    └── usuarios_teste.json
+ │
+ ├── support/
+ │    ├── commands.js
+ │    └── pages/
+ │         └── cadastro.page.js 
+
+## ⭐ Destaques do Projeto
+
+- Implementação do padrão **Page Object Model**
+- Separação de cenários positivos e negativos
+- Uso de **fixtures dinâmicas** para múltiplos cenários
+- Integração com **GitHub Actions** para execução automática
+- Estrutura voltada para escalabilidade de testes
+
+### Produzido por ![Beatriz Serra](https://github.com/beatrizbcserra)
