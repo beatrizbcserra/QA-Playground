@@ -72,6 +72,8 @@ cypress/
  │    ├── cadastroPositivo.cy.js
  
  │    └── cadastroNegativo.cy.js
+
+ │    └── loginPositivo.cy.js
  
  │
  
@@ -87,7 +89,11 @@ cypress/
  
  │    └── pages/
  
- │         └── cadastro.page.js
+ │         └── cadastroPage.js
+
+  │         └── loginPage.js
+
+ ├── screenshots/
 
 ## ⭐ Destaques do Projeto
 
