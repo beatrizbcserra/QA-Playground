@@ -1,4 +1,4 @@
-# 🧪 **QA Automation Project**
+# 🧪 **QA Playground Project**
 
 ![Cypress Tests](https://github.com/beatrizbcserra/QA-Playground/actions/workflows/cypress.yml/badge.svg)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
