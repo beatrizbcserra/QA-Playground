@@ -23,6 +23,13 @@ class LoginPage {
     cy.contains('OK').click()
   }
 
+  validarLoginFalho(mensagem) {
+    cy.get('.modal-content')
+      .should('be.visible')
+      .and('contain', mensagem)
+    cy.contains('OK').click({force:true})
+  }
+
   preencherLogin(user) {
   this.preencherEmail(user.email)
   this.preencherSenha(user.senha)
